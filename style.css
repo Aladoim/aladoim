@@ -3,7 +3,7 @@ body{
   background-color: rgb(255, 255, 255);
 }
 
-nav{
+header nav{
   height:44px;
   width: 100%;
   padding: 10px;
@@ -13,6 +13,7 @@ nav{
   justify-content: flex-end;
   position: fixed;
 }
+
 a{
   text-decoration: none;
   font-size: 13pt;
@@ -23,16 +24,16 @@ a{
 }
 
 
-a.atual{
+nav a#atual{
   color: #eeeeee;
 }
 
-a.pagina{
+nav a{
   color: #afafaf;
 }
 
-section#main{
-  background-color: #A68358;
+header section{
+  background-image: url("imagens/background.jpg");
   height: 350px;
   align-items: center;
   display: flex;
@@ -90,6 +91,44 @@ ul{
   color: #424242;
   text-align: justify;
 }
+
+table{
+  margin-top: 20px;
+}
+
+table#info_nut_amendoim {
+  border: 1px solid #2e2e2e;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table#info_nut_amendoim td{
+  border: 1px solid #2e2e2e;
+  padding: 5px;
+}
+
+table#info_nut_amendoim thead{
+  padding: 45px;
+  background-color: #A68358;
+  color: #fff;
+  text-shadow: 2px 1px #000000;
+}
+
+table#info_nut_amendoim caption{
+  padding: 15px;
+  color: #000000;
+  background-color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+tbody > tr:nth-child(even){
+  background-color: #A68358;
+  color: #fff;
+  text-shadow: 2px 1px #000000;
+}
+
 
 footer{
   border-top: 1px solid #eeeeee;
