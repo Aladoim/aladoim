@@ -18,5 +18,5 @@ A equipe não julgou necessário colocar os integrantes na página sobre, já qu
 | --- | --- | --- |
 | Carlos Gabriel dos Santos | cgs3@aluno.ifal.edu.br | 2018309490 |
 | Davi da Silva Romão | dsr1@aluno.ifal.edu.br | 2018309481 |
-| Eloi Rocha de Oliveira | eron1@aluno.ifal.edu.br | 2018309445 |
+| Eloi Rocha de Oliveira Neto | eron1@aluno.ifal.edu.br | 2018309445 |
 | Emanuel Victor de Melo Brebal | evmb1@aluno.ifal.edu.br | 2018309418 |
