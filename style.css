@@ -103,6 +103,11 @@ table#info_nut_amendoim {
   margin-right: auto;
 }
 
+table#info_nut_amendoim th{
+  border: 1px solid #2e2e2e;
+  padding: 5px;
+}
+
 table#info_nut_amendoim td{
   border: 1px solid #2e2e2e;
   padding: 5px;
