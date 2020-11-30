@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="faleconosco_style.css">
+
   <link rel="shortcut icon" href="imagens/favicon.ico" type="image/x-icon"/>
   
   <title>ALADOIM - Fale Conosco</title>
@@ -15,9 +17,9 @@
     
     <nav>
       <a href="index.html">Home</a>
-      <a href="faleconosco.html" id="atual">Fale Conosco</a>
       <a href="produtos.html">Produtos</a>
       <a href="sobre.html">Sobre</a>
+      <a href="faleconosco.html" id="atual">Fale Conosco</a>
     </nav>
 
     <section id="main">
@@ -45,6 +47,32 @@
           instagram: @aladoim_al<br>
           twitter: @aladoim_al<br>
         </p>
+
+    
+        <br>
+
+        <hr>
+
+        <p><b>Fale conosco diretamente:</b></p>
+
+        <form action="/aindairemoscolocar" method="post">
+          <div>
+              <label for="name">Nome:</label>
+              <input type="text" id="name" />
+          </div>
+          <div>
+              <label for="mail">E-mail:</label>
+              <input type="email" id="mail" />
+          </div>
+          <div>
+              <label for="msg">Mensagem:</label>
+              <textarea id="msg"></textarea>
+          </div>
+          <div class="button">
+              <button type="submit">Envie sua mensagem</button>
+          </div>
+        </form>
+
       </article>
     </section>
   </main>
