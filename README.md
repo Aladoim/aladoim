@@ -13,6 +13,18 @@ A equipe não julgou necessário colocar os integrantes na página sobre, já qu
 
 <br>
 
+# Aladoim - Relação da Entrega 5
+
+| Item | Local | Conteúdo | Feito |
+| --- | --- | --- | --- |
+| 2.1 | https://aladoim.github.io/aladoim/faleconosco.html | form de feedback | ✅ |
+| 2.2 | - | media queries | ✖️ |
+
+*Observações:
+Não conseguimos desenvolver o media queries, optamos por estudar melhor essa funcionalida/ferramenta e adiciona-la na próxima entrega.*
+
+<br>
+
 # Intregrantes
 | Nome | E-Mail | Matricula |
 | --- | --- | --- |
