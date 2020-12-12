@@ -1,4 +1,4 @@
-form {
+#bootstrap-overrides form {
 
   margin: 0 auto;
   padding: 1em;
@@ -7,11 +7,11 @@ form {
   border-radius: 1em;
 }
 
-form div + div {
+#bootstrap-overrides form div + div {
   margin-top: 1em;
 }
 
-label {
+#bootstrap-overrides label {
   font-family: Arial, Helvetica, sans-serif;
   color: #424242;
   display: inline-block;
@@ -19,10 +19,11 @@ label {
   text-align: right;
 }
 
-input, textarea {
+#bootstrap-overrides input, #bootstrap-overrides textarea {
   font: 1em sans-serif;
 
-  width: 300px;
+  
+  width: 75%;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 
@@ -30,11 +31,11 @@ input, textarea {
 }
 
 
-input:focus, textarea:focus {
+#bootstrap-overrides input:focus, textarea:focus {
   border-color: rgb(136, 136, 136);
 }
 
-textarea {
+#bootstrap-overrides textarea {
   vertical-align: top;
 
   height: 5em;
@@ -42,10 +43,10 @@ textarea {
   resize: vertical;
 }
 
-.button {
-  padding-left: 90px;
+#bootstrap-overrides .button {
+  padding-left: 13.2vh;
 }
 
-button {
+#bootstrap-overrides button {
   margin-left: .5em;
 }
