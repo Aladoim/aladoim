@@ -2,7 +2,6 @@ function validar(){
   const nome = document.getElementById('nome');
   const sobrenome = document.getElementById('sobrenome');
   const telefone = document.getElementById('telefone');
-  const mail = document.getElementById('mail');
   const assunto = document.getElementById('assunto');
   const msg = document.getElementById('msg');
 
