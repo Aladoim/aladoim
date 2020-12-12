@@ -4,21 +4,27 @@ body{
 }
 
 header nav{
-  height:44px;
+  height: 5vh;
   width: 100%;
+
   padding: 10px;
+
   background-color: #2e2e2e;
+
   align-items: center;
   display: flex;
   justify-content: flex-end;
   position: fixed;
+
+  transition: top 0.3s;
 }
 
 a{
-  text-decoration: none;
-  font-size: 13pt;
   margin-right: 20pt;
   margin-left: 20pt;
+
+  text-decoration: none;
+  font-size: 13pt;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: bold;
 }
@@ -128,13 +134,78 @@ table#info_nut_amendoim caption{
   font-family: Arial, Helvetica, sans-serif;
   font-size: 13px;
 }
+table#info_nut_castanha {
+  border: 1px solid #2e2e2e;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
 
+table#info_nut_castanha th{
+  border: 1px solid #2e2e2e;
+  padding: 5px;
+}
+
+table#info_nut_castanha td{
+  border: 1px solid #2e2e2e;
+  padding: 5px;
+}
+
+table#info_nut_castanha thead{
+  padding: 45px;
+  background-color: #A68358;
+  color: #fff;
+  text-shadow: 2px 1px #000000;
+  text-align: center;
+}
+
+table#info_nut_castanha caption{
+  padding: 15px;
+  color: #000000;
+  background-color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
+
+
+
+table#info_nut_caju {
+  border: 1px solid #2e2e2e;
+  border-spacing: 0px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table#info_nut_caju th{
+  border: 1px solid #2e2e2e;
+  padding: 5px;
+}
+
+table#info_nut_caju td{
+  border: 1px solid #2e2e2e;
+  padding: 5px;
+}
+
+table#info_nut_caju thead{
+  padding: 45px;
+  background-color: #A68358;
+  color: #fff;
+  text-shadow: 2px 1px #000000;
+  text-align: center;
+}
+
+table#info_nut_caju caption{
+  padding: 15px;
+  color: #000000;
+  background-color: antiquewhite;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+}
 tbody > tr:nth-child(even){
   background-color: #A68358;
   color: #fff;
   text-shadow: 2px 1px #000000;
 }
-
 
 footer{
   border-top: 1px solid #eeeeee;

@@ -22,7 +22,8 @@ label {
 input, textarea {
   font: 1em sans-serif;
 
-  width: 300px;
+  
+  width: 75%;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 
@@ -43,7 +44,7 @@ textarea {
 }
 
 .button {
-  padding-left: 90px;
+  padding-left: 13.2vh;
 }
 
 button {
