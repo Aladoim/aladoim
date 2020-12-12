@@ -24,6 +24,7 @@ A equipe não julgou necessário colocar os integrantes na página sobre, já qu
 Não conseguimos desenvolver o media queries, optamos por estudar melhor essa funcionalida/ferramenta e adiciona-la na próxima entrega.*
 
 <br>
+
 # Aladoim - Relação da Entrega 6
 
 | Item | Local | Conteúdo | Feito |
