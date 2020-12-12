@@ -24,6 +24,29 @@ A equipe não julgou necessário colocar os integrantes na página sobre, já qu
 Não conseguimos desenvolver o media queries, optamos por estudar melhor essa funcionalida/ferramenta e adiciona-la na próxima entrega.*
 
 <br>
+# Aladoim - Relação da Entrega 6
+
+| Item | Local | Conteúdo | Feito |
+| --- | --- | --- | --- |
+| 2.1 | https://github.com/Aladoim/aladoim/blob/main/faleconosco.html | formulario  | ✅ |
+| 2.2 | https://github.com/Aladoim/aladoim/tree/main/scripts | animações | ✅ |
+
+*Observações:
+Não fizemos a entrega a tempo mas fizemos todas as alterações pedidas na atividade.*
+
+<br>
+
+# Aladoim - Relação da Entrega 7
+
+| Item | Local | Conteúdo | Feito |
+| --- | --- | --- | --- |
+| 2.1 | https://github.com/Aladoim/aladoim | paginas com framework bootstrap | ✅ |
+| 2.2 | https://github.com/Aladoim/aladoim |três componentes devidamente colocados |✅|
+
+*Observações:
+As medias queries foram removidas para que o bootstrap não entrasse em conflito, e alteramos as páginas para que todas contessem os 3 componentes pedidos na atividade'*
+
+<br>
 
 # Intregrantes
 | Nome | E-Mail | Matricula |
